@@ -1,4 +1,4 @@
-print ("hello")
+print("hello")
 print('changed with  nano')
 print("change second type")
-print("changed third time")
+print("changes third time")
